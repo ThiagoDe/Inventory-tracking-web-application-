@@ -1,0 +1,25 @@
+<h1><%= @warehouse.name %></h1>
+<h4>Location: <%= @warehouse.location %></h4>
+
+<h3>Available in Stock</h3>
+<ul>
+    <% @warehouse.products.each do |product| %>
+    <a href="<%= product_url(product.id)%>">
+        <li><%= product.description %></li>
+    </a>
+    <% end %>
+</ul>
+
+<button>
+  <%= link_to "Edit Item", edit_warehouse_path(@warehouse) %>
+</button>
+<br>
+<br>
+ <%= button_to "Delete", warehouse_path(@warehouse), method: :delete %>
+<br>
+
+<button type="">
+     <a href="<%= root_url %>">
+            Index Page
+        </a>
+</button>

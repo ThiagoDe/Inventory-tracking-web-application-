@@ -1,0 +1,34 @@
+<h1>Inventory Items</h1>
+<ul>
+    <% @products.each do |product|%>
+        <li>
+            <a href="<%= product_url(product) %>">
+            <%= product.description %>
+            </a>
+        </li>
+    <% end %>
+</ul>
+
+<br>
+<br>
+<a href="<%= new_product_url %>">
+    <button type="">Create Inventory Item</button>
+</a>
+<br>
+<br>
+<hr>
+<h1>Warehouses</h1>
+
+<ul>
+    <% warehouses_list.each do |warehouse| %>
+        <li>
+            <a href="<%= warehouse_url(warehouse) %>">
+            <%= warehouse.name %>
+            </a>
+        </li>
+    <% end %>
+</ul>
+
+<a href="<%= new_warehouse_url %>">
+    <button type="">Create Warehouse</button>
+</a>
