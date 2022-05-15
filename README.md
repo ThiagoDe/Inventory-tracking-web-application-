@@ -1,3 +1,24 @@
+# Fall 2022 - Shopify Developer Intern Challenge
+
+This is an inventory tracking web application that could be used by a logistics company, built with Ruby on Rails and tested with RSpec. It includes basic CRUD functionality: you can create inventory items, edit them, delete them, and view a list of them.
+
+Visit the live application on Replit [here](https://replit.com/@ThiagoDe49/Inventory-tracking-web-application?v=1) or install the application locally by following the steps below.
+
+## Prerequisites:
+  * Ruby 3.0.3 or later
+  * Rails 7.0.0 or later
+  * Bundler 2.1.4 or later
+  * Sqlite3 1.4 or later
+
+# Local Installation
+* Clone this repo ([instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository))
+* Navigate into this project's directory `cd Inventory-tracking-web-application`
+* Install the required gems by running `bundle install`
+* Create the database by running `rails db:setup` or `rails db:reset`
+* Seed the databe by running `rails db:seed`
+* Start the local server by running `rails server`
+* View by visiting `localhost:3000` in a web browser
+
 # Rails on Replit
 
 This is a template to get you started with Rails on Replit. It's ready to go so you can just hit run and start coding!
