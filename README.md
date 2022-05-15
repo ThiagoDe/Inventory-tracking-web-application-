@@ -28,6 +28,14 @@ Visit the live application on Replit [here](https://replit.com/@ThiagoDe49/Inven
 
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/89544506/168462369-00381429-60c7-426c-bc10-dc695e775052.gif)
 
+* ## Edit Item
+
+![ezgif com-gif-maker (2) copy](https://user-images.githubusercontent.com/89544506/168462560-a63b4fd3-6ef8-4754-b0c7-a21f6d4eb39a.gif)
+
+* ## Edit Warehouse
+
+![ezgif com-gif-maker (2) copy 2](https://user-images.githubusercontent.com/89544506/168462700-ec55ca6c-db55-4221-8e0a-d5255a50c96d.gif)
+
 
 # Rails on Replit
 
