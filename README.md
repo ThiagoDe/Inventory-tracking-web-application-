@@ -36,6 +36,20 @@ Visit the live application on Replit [here](https://replit.com/@ThiagoDe49/Inven
 
 ![ezgif com-gif-maker (2) copy 2](https://user-images.githubusercontent.com/89544506/168462700-ec55ca6c-db55-4221-8e0a-d5255a50c96d.gif)
 
+* ## Delete Item
+
+![ezgif com-gif-maker (2) copy 3](https://user-images.githubusercontent.com/89544506/168463125-17267532-0050-467c-9b39-03ccb773ce49.gif)
+
+* ## Delete Warehouse 
+
+![ezgif com-gif-maker (2) copy 4](https://user-images.githubusercontent.com/89544506/168463213-23be28e9-6df1-47bc-a1c0-9ebacb6b0fed.gif)
+
+* ## Handling Errors
+
+![ezgif com-gif-maker (2) copy 5](https://user-images.githubusercontent.com/89544506/168463319-0bbfdd82-7a8c-43bc-9cbe-23f4f7d5cfe1.gif)
+
+<img width="405" alt="errors_warehouse" src="https://user-images.githubusercontent.com/89544506/168463345-c3e9b532-b6a2-420f-a22e-b8f9fbc0d3e2.png">
+
 
 # Rails on Replit
 
