@@ -19,6 +19,16 @@ Visit the live application on Replit [here](https://replit.com/@ThiagoDe49/Inven
 * Start the local server by running `rails server`
 * View by visiting `localhost:3000` in a web browser
 
+# CRUD Features
+* ## Create new Items
+
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/89544506/168461981-5f63a9c5-afad-433e-af67-f07f7d095019.gif)
+
+* ## Create new Warehouses
+
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/89544506/168462369-00381429-60c7-426c-bc10-dc695e775052.gif)
+
+
 # Rails on Replit
 
 This is a template to get you started with Rails on Replit. It's ready to go so you can just hit run and start coding!
