@@ -1,4 +1,4 @@
-# Fall 2022 - Shopify Developer Intern Challenge
+# Fall 2022 - 
 
 This is an inventory tracking web application that could be used by a logistics company, built with Ruby on Rails and tested with RSpec. It includes basic CRUD functionality: you can create inventory items, edit them, delete them, and view a list of them.
 
